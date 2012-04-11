@@ -1,0 +1,20 @@
+{
+    "name": "mongoose-validators"
+  , "description": "More Mongoose validators"
+  , "version": "0.0.1"
+  , "author": "Zarko Stankovic <stankovic.zarko@gmail.com"
+  , "keywords": [ "mongoose", "mongodb", "validators", "string" ]
+  , "dependencies": {
+      "mongoose": "latest"
+    }
+  , "devDependencies": {
+      "mocha": "latest"
+    }
+  , "scripts": { "test": "make test" }
+  , "main": "./index.js"
+  , "engines": { "node": ">= 0.4.0" }
+  , "repository": {
+        "type": "git"
+      , "url": "git@github.com:ManInTheBox/mongoose-validators.git"
+    }
+}
